@@ -1,6 +1,6 @@
 RENCANA BELAJAR
 - Web Programming
-- Mobile Apps
 - Machine Learning
 - Cyber Security
 - Financial
+- Internet of Things
