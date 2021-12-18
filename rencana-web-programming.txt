@@ -3,5 +3,8 @@ LIST MATERI PEMBELAJARAN WEB PROGRAMMING
 
 - PHP
 - Javascript
+  * ES6
+  * Vue.js
+  * Node.js
 - Laravel
 - CodeIgniter
