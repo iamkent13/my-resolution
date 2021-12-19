@@ -6,6 +6,7 @@ LIST MATERI PEMBELAJARAN WEB PROGRAMMING
   * ES6
   * Vue.js
   * Node.js
+  * React.js
 - REST API
 - PHP Frameworks
   * Laravel
