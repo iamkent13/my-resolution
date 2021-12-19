@@ -8,6 +8,7 @@ LIST MATERI PEMBELAJARAN WEB PROGRAMMING
   * Node.js
   * Angular.js
   * React.js
+  * Three.js
 - REST API
 - PHP Frameworks
   * Laravel
